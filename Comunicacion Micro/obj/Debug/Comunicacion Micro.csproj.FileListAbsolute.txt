@@ -1,0 +1,11 @@
+G:\Mi unidad\Diseño de Redes Inalambricas\Practica 1\Comunicacion Micro\Comunicacion Micro\bin\Debug\Comunicacion Micro.exe.config
+G:\Mi unidad\Diseño de Redes Inalambricas\Practica 1\Comunicacion Micro\Comunicacion Micro\bin\Debug\Comunicacion Micro.exe
+G:\Mi unidad\Diseño de Redes Inalambricas\Practica 1\Comunicacion Micro\Comunicacion Micro\bin\Debug\Comunicacion Micro.pdb
+G:\Mi unidad\Diseño de Redes Inalambricas\Practica 1\Comunicacion Micro\Comunicacion Micro\obj\Debug\Comunicacion Micro.csproj.AssemblyReference.cache
+G:\Mi unidad\Diseño de Redes Inalambricas\Practica 1\Comunicacion Micro\Comunicacion Micro\obj\Debug\Comunicacion Micro.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\Diseño de Redes Inalambricas\Practica 1\Comunicacion Micro\Comunicacion Micro\obj\Debug\Comunicacion_Micro.frmTarjeta.resources
+G:\Mi unidad\Diseño de Redes Inalambricas\Practica 1\Comunicacion Micro\Comunicacion Micro\obj\Debug\Comunicacion_Micro.Properties.Resources.resources
+G:\Mi unidad\Diseño de Redes Inalambricas\Practica 1\Comunicacion Micro\Comunicacion Micro\obj\Debug\Comunicacion Micro.csproj.GenerateResource.cache
+G:\Mi unidad\Diseño de Redes Inalambricas\Practica 1\Comunicacion Micro\Comunicacion Micro\obj\Debug\Comunicacion Micro.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Diseño de Redes Inalambricas\Practica 1\Comunicacion Micro\Comunicacion Micro\obj\Debug\Comunicacion Micro.exe
+G:\Mi unidad\Diseño de Redes Inalambricas\Practica 1\Comunicacion Micro\Comunicacion Micro\obj\Debug\Comunicacion Micro.pdb

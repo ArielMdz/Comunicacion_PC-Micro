@@ -1,0 +1,35 @@
+main
+	__CC2DW
+	cport
+	CIntT0
+	ADC_Init
+	PWM1_Init
+	PWM1_Start
+	PWM1_Set_Duty
+		Mul_16X16_U
+	UART1_Init
+	ON_OFF_Timer0
+	Estado_LEDs
+		UART1_Write_Text
+			UART1_Write
+		IntToStr
+			WordToStr
+				Div_16X16_U
+	Valor_PWM
+		atoi
+			isdigit
+			Mul_16X16_U
+		Mul_16X16_U
+		PWM1_Set_Duty
+			Mul_16X16_U
+	Datos_ADC
+		ADC_Read
+			Delay_22us
+		IntToStr
+			WordToStr
+				Div_16X16_U
+		UART1_Write_Text
+			UART1_Write
+interrupt
+	UART1_Read
+	LEDs
